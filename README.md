@@ -1,6 +1,6 @@
 1. Install laravel 8
 2. Install mariadb 
-3. Install vuejs 2 & npm install vue-router vue-axios & npm install
+3. npm install vue-router vue-axios & npm install
 4. start service apache2 & mariadb
 5. clone project to /var/www/html
 6. run - php artisan migrate
